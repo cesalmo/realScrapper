@@ -1,0 +1,1540 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js no-svg">
+<head>	
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8224930-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-8224930-1');
+	</script>
+
+	<meta charset="UTF-8">	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />	
+	<link rel="profile" href="https://gmpg.org/xfn/11" />	
+    <script type="text/javascript" async defer src="https://inmocasal.es/wp-content/themes/homeland/src/scripts/custom.js"></script>  
+   
+
+	<title>Búsqueda Avanzada - CASAL Inmobiliaria</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.inmocasal.es/busqueda-avanzada/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Búsqueda Avanzada - CASAL Inmobiliaria" />
+<meta property="og:url" content="https://www.inmocasal.es/busqueda-avanzada/" />
+<meta property="og:site_name" content="CASAL Inmobiliaria" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Búsqueda Avanzada - CASAL Inmobiliaria" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.inmocasal.es/#website","url":"https://www.inmocasal.es/","name":"CASAL Inmobiliaria","potentialAction":{"@type":"SearchAction","target":"https://www.inmocasal.es/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.inmocasal.es/busqueda-avanzada/#webpage","url":"https://www.inmocasal.es/busqueda-avanzada/","inLanguage":"es","name":"B\u00fasqueda Avanzada - CASAL Inmobiliaria","isPartOf":{"@id":"https://www.inmocasal.es/#website"},"datePublished":"2019-10-09T14:02:50+00:00","dateModified":"2019-10-09T14:02:50+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CASAL Inmobiliaria &raquo; Feed" href="https://www.inmocasal.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CASAL Inmobiliaria &raquo; RSS de los comentarios" href="https://www.inmocasal.es/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.inmocasal.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.inmocasal.es/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='https://www.inmocasal.es/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='typo-style-css'  href='https://www.inmocasal.es/wp-content/plugins/codeex-shortcodes/typo-style.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.inmocasal.es/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.0.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='homeland-custom-style-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/css/admin.min.css?ver=5.2.7' type='text/css' media='all' />
+<style id='homeland-custom-style-inline-css' type='text/css'>
+
+					body { 
+						font-size: 12px !important; 
+					}
+				
+					body { 
+						line-height: 24px !important; 
+					}
+				
+					.property-list-box h2, 
+					.agent-block h3, 
+					.featured-block h3, 
+					.featured-block-two-cols h3, 
+					.blog-block h3, 
+					.partners-block h3 { 
+						font-size: 24px !important; 
+					}
+				
+					.ptitle { font-size: 36px !important; }
+				
+					.subtitle label { 
+						font-size: 12px !important; 
+					}
+				
+					.left-container h3 { 
+						font-size: 22px !important; 
+					}
+				
+					.sidebar h5 { 
+						font-size: 16px !important; 
+					}
+				
+					footer .widget h5 { 
+						font-size: 20px !important; 
+					}
+				
+					body { background-color: FFF !important; }
+				
+					.contact-alt-background { 
+						background-image: url('https://wpcodeex.site/homeland/wp-content/uploads/sites/2/2019/07/contact-bg-page.jpg') !important; 
+						background-size: cover; 
+					}
+				
+					.sliding-bar { 
+						position: relative !important; 
+					}
+					a.slide-toggle { 
+						position: absolute !important; 
+					}
+				
+					.welcome-block .overlay { 
+						background-color: #db3286 !important;
+					}
+				
+							.page-title-block-default { 
+								background-image: url('https://www.inmocasal.es/wp-content/uploads/2019/10/baner-bg-2.jpg'); 
+							}
+						
+
+				body, h1, h2, h3, h4, h5, h6, 
+				input, textarea, select, 
+				.widget_revslider .tp-caption { 
+					font-family: Roboto, sans-serif !important; 
+				}
+			
+</style>
+<link rel='stylesheet' id='homeland-custom-font-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;ver=5.2.7#038;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='homeland-style-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/style.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='homeland-style-min-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/css/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='homeland-font-awesome-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/font-awesome/css/all.min.css?ver=5.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-flexslider-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/flexslider/flexslider.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-magnific-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/magnific-popup/magnific-popup.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-select2-css'  href='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/select2/select2.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap.css?ver=3.3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-theme-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap-theme.css?ver=3.3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-client-pages-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/css/client.css?ver=8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/css/calendar.css?ver=8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-skin-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/css/skins/traditional.css?ver=8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-flex-timeline-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/core/timeline/v2/css/timeline_v2.css?ver=8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-flex-timeline-skin-css'  href='https://www.inmocasal.es/wp-content/plugins/booking/core/timeline/v2/css/timeline_skin_v2.css?ver=8.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.inmocasal.es/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.0.6'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpbc_global1 = {"wpbc_ajaxurl":"https:\/\/www.inmocasal.es\/wp-admin\/admin-ajax.php","wpdev_bk_plugin_url":"https:\/\/www.inmocasal.es\/wp-content\/plugins\/booking","wpdev_bk_today":"[2020,6,25,23,23]","visible_booking_id_on_page":"[]","booking_max_monthes_in_calendar":"1y","user_unavilable_days":"[999]","wpdev_bk_edit_id_hash":"","wpdev_bk_plugin_filename":"wpdev-booking.php","bk_days_selection_mode":"multiple","wpdev_bk_personal":"0","block_some_dates_from_today":"0","message_verif_requred":"Este campo es obligatorio","message_verif_requred_for_check_box":"Esta casilla debe estar marcada","message_verif_requred_for_radio_box":"Seleccione al menos una opci\u00f3n","message_verif_emeil":"Campo de email incorrecto","message_verif_same_emeil":"Tus correos no coinciden","message_verif_selectdts":"Por favor, seleccione la fecha de reserva en el calendario.","parent_booking_resources":"[]","new_booking_title":"Gracias por tu reserva online.  Te enviaremos la confirmaci\u00f3n de tu reserva lo antes posible.","new_booking_title_time":"7000","type_of_thank_you_message":"message","thank_you_page_URL":"https:\/\/www.inmocasal.es\/thank-you","is_am_pm_inside_time":"true","is_booking_used_check_in_out_time":"false","wpbc_active_locale":"es_ES","wpbc_message_processing":"Procesando","wpbc_message_deleting":"Borrando","wpbc_message_updating":"Actualizando","wpbc_message_saving":"Guardando","message_checkinouttime_error":"\u00a1Error! Por favor reinicie las fechas de Check-in\/Check-out de arriba.","message_starttime_error":"Fecha de inicio no v\u00e1lida, probablemente por fecha u hora ya reservada, o ya en el pasado! Escoja otra fecha u hora.","message_endtime_error":"Fecha fin no v\u00e1lida, probablemente por fecha u hora ya reservada o ya en el pasado! La hora final puede ser anterior a la de inicio, si s\u00f3lo se ha seleccionado 1 d\u00eda. Escoja otra fecha u hora.","message_rangetime_error":"La hora puede estar reservada o tambi\u00e9n que ya haya pasado!","message_durationtime_error":"La hora puede estar reservada o tambi\u00e9n que ya haya pasado!","bk_highlight_timeslot_word":"Horas:"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/wpbc_vars.js?ver=8.6'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/assets/libs/bootstrap/js/bootstrap.js?ver=3.3.5.1'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/wpbc-migrate.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/datepick/jquery.datepick.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/datepick/jquery.datepick-es.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/client.js?ver=8.6'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/js/wpbc_times.js?ver=8.6'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.js?ver=8.6'></script>
+<link rel='https://api.w.org/' href='https://www.inmocasal.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.inmocasal.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.inmocasal.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+<link rel='shortlink' href='https://www.inmocasal.es/?p=563' />
+<link rel="alternate" type="application/json+oembed" href="https://www.inmocasal.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.inmocasal.es%2Fbusqueda-avanzada%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.inmocasal.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.inmocasal.es%2Fbusqueda-avanzada%2F&#038;format=xml" />
+
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '468049140716641', [], {
+    "agent": "wordpress-5.2.7-1.8.0"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=468049140716641&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta name="generator" content="Powered by Slider Revolution 6.0.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.inmocasal.es/wp-content/uploads/2019/10/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.inmocasal.es/wp-content/uploads/2019/10/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.inmocasal.es/wp-content/uploads/2019/10/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.inmocasal.es/wp-content/uploads/2019/10/favicon.png" />
+<script type="text/javascript">function setREVStartSize(a){try{var b,c=document.getElementById(a.c).parentNode.offsetWidth;if(c=0===c||isNaN(c)?window.innerWidth:c,a.tabw=void 0===a.tabw?0:parseInt(a.tabw),a.thumbw=void 0===a.thumbw?0:parseInt(a.thumbw),a.tabh=void 0===a.tabh?0:parseInt(a.tabh),a.thumbh=void 0===a.thumbh?0:parseInt(a.thumbh),a.tabhide=void 0===a.tabhide?0:parseInt(a.tabhide),a.thumbhide=void 0===a.thumbhide?0:parseInt(a.thumbhide),a.mh=void 0===a.mh||""==a.mh?0:a.mh,"fullscreen"===a.layout||"fullscreen"===a.l)b=Math.max(a.mh,window.innerHeight);else{for(var d in a.gw=Array.isArray(a.gw)?a.gw:[a.gw],a.rl)(void 0===a.gw[d]||0===a.gw[d])&&(a.gw[d]=a.gw[d-1]);for(var d in a.gh=void 0===a.el||""===a.el||Array.isArray(a.el)&&0==a.el.length?a.gh:a.el,a.gh=Array.isArray(a.gh)?a.gh:[a.gh],a.rl)(void 0===a.gh[d]||0===a.gh[d])&&(a.gh[d]=a.gh[d-1]);var e,f=Array(a.rl.length),g=0;for(var d in a.tabw=a.tabhide>=c?0:a.tabw,a.thumbw=a.thumbhide>=c?0:a.thumbw,a.tabh=a.tabhide>=c?0:a.tabh,a.thumbh=a.thumbhide>=c?0:a.thumbh,a.rl)f[d]=a.rl[d]<window.innerWidth?0:a.rl[d];for(var d in e=f[0],f)e>f[d]&&0<f[d]&&(e=f[d],g=d);var h=c>a.gw[g]+a.tabw+a.thumbw?1:(c-(a.tabw+a.thumbw))/a.gw[g];b=a.gh[g]*h+(a.tabh+a.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(a.c).height=b,window.rs_init_css.innerHTML+="#"+a.c+"_wrapper { height: "+b+"px }"}catch(a){console.log("Failure at Presize of Slider:"+a)}};</script>
+		<style type="text/css" id="wp-custom-css">
+			.theme-menu li a:hover{
+	background: #BC1977!important;
+}
+
+.header-ten .logo, .logo {
+    float: left;
+    width: 100px!important;
+	  margin-top:10px!important;
+	    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+header.sticky-header-animate .logo{
+	  width: 80px!important;
+	  margin-top:5px!important;
+	  -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+.welcome-block .overlay {
+	opacity: .4;
+}
+
+.footer-layout-seven #toTop{
+	display:none!important;
+}
+
+.contact-alt-background{
+	background-image: url(/wp-content/uploads/2019/08/contacto-bg.jpg) !important;
+	background-size:cover;
+}		</style>
+			
+	
+	<!--<style type="text/css">		
+	#MLCalcFrame .webpage{			display: none;		}	
+    </style>	
+
+    <script type="text/javascript" language="JavaScript">    $(document).ready( function () {        $('#MLCalcFrame').load( function () {            $(this).contents().find(".webpage").css({'display':'none'});        });    });    
+    </script>  -->
+
+      
+
+    <script type="text/javascript" charset="utf-8"> 
+    	$(window).load(function() { 
+    		$('#carousel-flex').flexslider({       
+    			animation: "slide",       
+    			controlNav: false,       
+    			animationLoop: false,       
+    			slideshow: false,       
+    			itemWidth: 110,       
+    			itemMargin: 10,       
+    			slideshow: false,                
+                //Boolean: Animate slider automatically      
+                slideshowSpeed: 100000,      
+                asNavFor: '.properties-flexslider',       
+                prevText: "",       nextText: ""    
+            });    
+        $('.properties-flexslider').flexslider({       
+        	animation: "slide",      
+        	prevText: "",       
+        	nextText: "",       
+        	controlNav: false,       
+        	smoothHeight: true,       
+        	sync: "#carousel-flex",       
+        	slideshow: false,      
+        	touch: true,      
+        	animationSpeed: 700,      
+        	start: function(slider){        
+        		slider.removeClass('flex-loading');      
+        	}    
+    }); 
+    }); 
+    </script>
+    </head>
+        <body data-rsssl=1 class="page-template page-template-templates page-template-template-custom-search page-template-templatestemplate-custom-search-php page page-id-563 wp-embed-responsive container">		
+	<div id="preloader"><div id="status">&nbsp;</div></div>
+
+
+<div id="container" class="">
+	<header class="sticky-header ">		
+					<section class="header-block">
+				<div class="inside">
+					<div class="post-col-12 clearfix">
+						
+<div class="social floatleft">
+	<ul class="clearfix">
+		<li class='facebook'><a href='//facebook.com/inmocasal' target='_blank'><i class='fab fa-facebook-f'></i></a></li><li class='instagram'><a href='//instagram.com/inmocasal' target='_blank'><i class='fab fa-instagram'></i></a></li>	
+	</ul>
+</div><div class="call-info floatright clearfix">
+			<span class="call-us">
+			<i class="fas fa-phone"></i>
+			Llámanos: 984 28 00 88		</span>
+	 
+	
+	</div>
+
+	<div id="login" class="zoom-anim-dialog mfp-hide">
+		<form method="post" action="https://www.inmocasal.es/wp-login.php" id="homeland-loginform" name="homeland-loginform">
+	<p class="login-username">
+		<label for="user_login">Ingresa</label>
+		<input type="text" size="20" value="" class="input required" id="user_login" name="log">
+	</p>
+	<p class="login-password">
+		<label for="user_pass">Contraseña</label>
+		<input type="password" size="20" value="" class="input required" id="user_pass" name="pwd">
+	</p>
+	<p class="login-remember"><label><input type="checkbox" value="forever" id="rememberme" name="rememberme"> Recuérdame</label></p>
+	<p class="login-submit">
+		<input type="submit" value="Iniciar sesión" class="button-primary" id="wp-submit" name="wp-submit">
+		<input type="hidden" value="https://www.inmocasal.es/" name="redirect_to">
+	</p>
+</form>
+<div class="login-links textcenter">
+		<a href="#lost-password" class="modal-popup">
+		¿Perdiste tu contraseña?	</a>
+</div>	</div>
+
+	<div id="register" class="zoom-anim-dialog mfp-hide">
+			</div>
+
+	<div id="lost-password" class="zoom-anim-dialog mfp-hide">
+		<form method="post" action="https://www.inmocasal.es/wp-login.php?action=lostpassword" id="homeland-lostpassword" name="homeland-lostpassword">
+	<p>
+		<label for="user_password">Nombre de usuario o correo electrónico</label>
+		<input type="text" size="20" value="" class="input required" id="user_password" name="user_login">
+	</p>
+	<p>
+		Por favor ingrese su nombre de usuario o dirección de correo electrónico. Recibirá un enlace para crear una nueva contraseña por correo electrónico.	</p>
+	<p class="login-submit">
+		<input type="submit" value="Obtener nueva contraseña" class="button-primary" id="wp-submit-password" name="wp-submit">
+		<input type="hidden" value="" name="redirect_to">
+	</p>
+</form>
+<div class="login-links textcenter">
+		<a href="#login" class="modal-popup">login</a>
+</div>	</div>
+	
+					</div>							
+				</div>
+			</section>
+			<div class="inside">
+				<div class="post-col-12 clearfix">
+					
+<div class="logo">
+	<a href="https://www.inmocasal.es/">
+		<img src="https://www.inmocasal.es/wp-content/uploads/2019/08/logo-casal-.png" alt="CASAL Inmobiliaria" title="CASAL Inmobiliaria" />
+	</a>
+</div><nav class="clearfix">
+	<div id="dropdown" class="theme-menu"><ul id="main-menu" class="sf-menu"><li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-693"><a href="https://www.inmocasal.es/">Inicio</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269"><a href="/inmobiliaria/">Inmobiliaria</a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://www.inmocasal.es/comunidades/">Comunidades</a></li>
+<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="https://www.inmocasal.es/financiera/">Financiera</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="https://www.inmocasal.es/oficinas-inmobiliarias/">Oficinas</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://www.inmocasal.es/contacto/">Contacto</a></li>
+</ul></div></nav>					</div>				
+			</div>
+			</header>
+
+			<section class="page-title-block-default header-bg" >
+						<div class="inside">
+				
+<div class="post-col-12">
+	<h2 class="ptitle">Búsqueda Avanzada</h2></div>			</div>
+		</section>	
+    <section class="advance-search-block post-bottom-5em" id="advance-search"><div class="inside">
+
+            <div>
+                
+<form action="https://www.inmocasal.es/wp-admin/admin-post.php" method="post" id="advance-search-form" class="advance-search-form">
+    <input type="hidden" name="action" value="search">
+    <input type="hidden" name="page" value="1">
+    <div class="clearfix">
+
+
+        <div class="post-col-3 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+            <select name="quiero" required>
+                                <option value="">Seleccione Tipo de Gestión</option>
+                <option value='5' selected>Comprar</option><option value='2' >Alquiler</option>            </select>
+        </div>
+        <div class="post-col-3 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+            <select name="inmueble" required>
+                                <option value="">Seleccione Inmueble</option>
+                <option value='6' selected>Piso</option><option value='2'>Casa</option><option value='10'>Chalet</option><option value='3'>Finca</option><option value='4'>Local</option><option value='8'>Trastero</option><option value='11'>Nave industrial</option><option value='13'>Solar</option><option value='12'>Negocio</option><option value='14'>Edificio</option>            </select>
+        </div>
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+            <select name="poblacion" >
+                                <option value="0">Poblaci&oacute;n</option>
+                <!--						--><option value='1'>Aviles</option><option value='2'>Miranda</option><option value='3'>Salinas</option><option value='4'>Villaviciosa</option><option value='6'>Sama</option><option value='7'>Ria&ntilde;o</option><option value='8'>Blimea</option><option value='9'>P. Laviana</option><option value='10'>Sotrondio</option><option value='11'>Villoria</option><option value='12'>Caba&ntilde;aquinta</option><option value='13'>Moreda</option><option value='14'>Collanzo</option><option value='15'>Caborana</option><option value='16'>Pelugano</option><option value='17'>Trapa</option><option value='18'>El Entrego</option><option value='19'>Oviedo</option><option value='20'>Lada</option><option value='21'>Pando</option><option value='22'>Barredos</option><option value='23'>Campo de Caso</option><option value='25'>Lorio</option><option value='26'>Bimenes</option><option value='27' selected>Mieres</option><option value='28'>Casomera</option><option value='29'>Felechosa</option><option value='30'>Cuerigo</option><option value='31'>Pi&ntilde;eres</option><option value='32'>Felguerua</option><option value='33'>Nembra</option><option value='34'>Tur&oacute;n</option><option value='35'>Pola de Lena</option><option value='36'>Santa Eulalia </option><option value='37'>Boo</option><option value='38'>Loredo</option><option value='39'>Ujo</option><option value='40'>Carraspientes</option><option value='41'>Valdecuna</option><option value='42'>La Felguera</option><option value='43'>Seana</option><option value='44'>Soto de Ribera</option><option value='45'>Sta Maria del Monte</option><option value='46'>Murias</option><option value='47'>Santo Emiliano</option><option value='48'>Rioturbio</option><option value='49'>Figaredo</option><option value='50'>Bai&ntilde;a</option><option value='51'>Ribadesella</option><option value='52'>Olloniego</option><option value='53'>Gijon</option><option value='54'>Santa Cruz</option><option value='55'>Valencia de don Juan</option><option value='56'>Cardeo</option><option value='57'>Bustiello</option><option value='58'>Ardon</option><option value='59'>La Rebollada</option><option value='60'>Riosa</option><option value='61'>Santirso</option><option value='62'>Palacio Felgueras</option><option value='63'>La Faidosa</option><option value='64'>Oyanco</option><option value='65'>Abla&ntilde;a</option><option value='66'>La Cobertoria</option><option value='67'>Vegalafonte</option><option value='68'>La Mata Misiego</option><option value='69'>Carabanzo</option><option value='70'>Maramu&ntilde;iz</option><option value='71'>Llamas</option><option value='72'>Soto</option><option value='73'>Murias de Aller</option><option value='74'>Entrepe&ntilde;as</option><option value='75'>Campomanes</option><option value='76'>Trobajo del Camino</option><option value='77'>La Pi&ntilde;era</option><option value='78'>Aguilar</option><option value='79'>Sotiello</option><option value='80'>Villanueva del Arbol</option><option value='81'>Villallana</option><option value='82'>Puente los Fierros</option><option value='83'>Riosa</option><option value='84'>Villar</option><option value='85'>Bazuelo</option><option value='86'>Columbiello</option><option value='87'>Santa Rosa</option><option value='88'>Colunga</option><option value='89'>Mu&ntilde;on Fondero</option><option value='90'>La Pe&ntilde;a</option><option value='91'>Argame</option><option value='92'>Alienes</option><option value='93'>Llosango</option><option value='94'>Molin de la Puente</option><option value='95'>Mu&ntilde;on Cimero</option><option value='96'>Langreo</option><option value='97'>Cia&ntilde;o</option><option value='98'>El Viso</option><option value='99'>Gargantada</option><option value='100'>Tuilla</option><option value='101'>Tudela Veguin</option><option value='102'>Luanco</option><option value='103'>Corigos</option><option value='105'>Levinco</option><option value='106'>Santa Ana</option><option value='107'>El Pino</option><option value='108'>Piedras Blancas</option><option value='109'>Las Vegas</option><option value='110'>Villalegre </option><option value='111'>La Luz</option><option value='112'>Trasona</option><option value='113'>Bustiello</option><option value='114'>Llaranes</option><option value='115'>La Carriona</option><option value='116'>Los Campos</option><option value='117'>San Isidro</option><option value='118'>Garajes</option><option value='119'>El Pozon</option><option value='120'>Santiba&ntilde;ez de Murias</option><option value='121'>Santa Maria del Mar</option><option value='122'>Rio Aller</option><option value='123'>Serrapio</option><option value='124'>Foz</option><option value='125'>Xivares </option><option value='126'>Orle</option><option value='127'>San Martin de Podes</option><option value='128'>Condado, El</option><option value='129'>Rioseco</option><option value='130'>Coballes</option><option value='131'>Cea</option><option value='132'>Foz, La</option><option value='133'>Lugones</option><option value='134'>San Juan de Nieva</option><option value='135'>Lugo Llanera</option><option value='136'>Naveces</option><option value='137'>Cotorraso</option><option value='138'>Posada</option><option value='139'>Sahelices </option><option value='140'>Frieres</option><option value='141'>Carbayin</option><option value='142'>Bo&ntilde;ar</option><option value='143'>Entrepe&ntilde;as</option><option value='144'>Pajomal</option><option value='145'>Bezanes</option><option value='146'>Meres</option><option value='147'>Torrejon</option><option value='148'>San Miguel de la Barr</option><option value='149'>Murcia</option><option value='150'>Vivero</option><option value='151'>Llanes</option><option value='152'>Roquetas de Mar</option><option value='153'>Valdesoto</option><option value='154'>Nora</option><option value='155'>Santa Lucia</option><option value='156'>Pola Siero</option><option value='157'>El Berron</option><option value='158'>Trubia</option><option value='159'>Lieres</option><option value='160'>Sevares</option><option value='161'>Rivadedeva</option><option value='162'>Nueva de Llanes</option><option value='163'>Santa Marina Piedram</option><option value='164'>Pruvia</option><option value='165'>Nore&ntilde;a</option><option value='166'>La Fresneda</option><option value='167'>Poligono de Granda</option><option value='168'>La Fambulla</option><option value='169'>Posada Llanera</option><option value='170'>La Manjoya</option><option value='171'>Colloto</option><option value='172'>Bobes</option><option value='173'>Viella</option><option value='174'>Arriondas</option><option value='175'>Tamargo</option><option value='176'>Hevia</option><option value='177'>Ables</option><option value='178'>Porrua</option><option value='179'>La Borbolla</option><option value='180'>San Claudio</option><option value='181'>Ules</option><option value='182'>San Esteban Cruces</option><option value='183'>Nava</option><option value='184'>Soto del Rey</option><option value='185'>Parroquia de Aveno</option><option value='186'>Las Regueras</option><option value='187'>Limanes</option><option value='188'>Grado</option><option value='189'>Granda</option><option value='190'>Ti&ntilde;ana</option><option value='191'>Puerto Ponton</option><option value='192'>Poligono Silvota</option><option value='193'>Noriega</option><option value='194'>Ribera de Arriba</option><option value='195'>Benavides de Orbigo</option><option value='196'>Pola Somiedo</option><option value='197'>La Carrera</option><option value='198'>Carbayin</option><option value='199'>Marbella</option><option value='200'>Infiesto</option><option value='201'>Rumia</option><option value='202'>Vega de Aller</option><option value='203'>Caridad</option><option value='204'>Vega de Pas</option><option value='205'>Zamora</option><option value='206'>San Martin</option><option value='207'>Villar de Veyo</option><option value='208'>Mieres de Limanes</option><option value='209'>La Piniella</option><option value='210'>Lugones</option><option value='211'>Ribono</option><option value='212'>Carraluz</option><option value='213'>Soto de Lui&ntilde;a</option><option value='214'>Vegadotos</option><option value='215'>Valliniello</option><option value='216'>Sueros</option><option value='217'>San Tirso</option><option value='218'>Le&oacute;n</option><option value='219'>Le&oacute;n</option><option value='220'>El Fafilan</option><option value='222'>Molleda</option><option value='223'>Amb&aacute;s</option><option value='224'>Frieres</option><option value='225'>Cadiz</option><option value='227'>Medina de Sidonia</option><option value='228'>Rozadas de la Pe&ntilde;a</option><option value='230'>Raices</option><option value='232'>El Arbol&oacute;n</option><option value='233'>San Cristobal</option><option value='234'>San Martin de Lui&ntilde;a</option><option value='235'>La Peral</option><option value='236'>Candas</option><option value='237'>Pie de Loro</option><option value='238'>San Cosme</option><option value='239'>Salas</option><option value='240'>La Laguna</option><option value='241'>La Robla</option><option value='242'>Puente de Arco</option><option value='243'>Muros del Nal&oacute;n</option><option value='245'>Llanes</option><option value='246'>San Juan de la Arena</option><option value='247'>Cancienes</option><option value='248'>San Tirso</option><option value='249'>El Villar</option><option value='250'>El Entrego</option><option value='251'>Santiago del Monte</option><option value='252'>Colunga</option><option value='253'>Santa Ana</option><option value='254'>Taborneda</option><option value='255'></option><option value='256'>Grullos</option><option value='257'>Soto del Rey</option><option value='258'>Faedo</option><option value='259'>Coa&ntilde;a</option><option value='260'>Tapia de Casariego</option><option value='261'>Pravia</option><option value='262'>Ovi&ntilde;ana</option><option value='263'>Tabaza</option><option value='264'>San Esteban de Pravi</option><option value='265'>El Alfaraz</option><option value='266'>Mansilla de las Mulas</option><option value='267'>Cofi&ntilde;al</option><option value='268'>Tresgrandas</option><option value='269'>Le&oacute;n</option><option value='270'>Pilo&ntilde;a</option><option value='271'>Luarca</option><option value='272'>Laviada</option><option value='273'>Soto del Barco</option><option value='274'>Ventosa</option><option value='275'>Solis</option><option value='276'>Nore&ntilde;a</option><option value='277'>Llanera</option><option value='278'>Villama&ntilde;&aacute;n</option><option value='279'>La Pereda</option><option value='280'>Bello</option><option value='281'>Torrevieja</option><option value='282'>Proaza</option><option value='283'>Sarxendez</option><option value='284'>Somao</option><option value='285'>Yernes y Tameza</option><option value='286'>Bue&ntilde;o</option><option value='287'>Ribadesella</option><option value='288'>Hospital de Orbigo</option><option value='289'>Prendes</option><option value='290'>Las Campas</option><option value='291'>Polig. Espiritu Santo</option><option value='292'>Polig. Espi. Santo</option><option value='293'>Sahagun de Campos</option><option value='294'>Las Mazas</option><option value='295'>Urbanizaci&oacute;n Soto D </option><option value='296'>Prendes</option><option value='297'>San Martin de Laspra</option><option value='298'>Corraon</option><option value='299'>Coto Carcedo</option><option value='300'>Pol&iacute;gono Asipo</option><option value='301'>Pol&iacute;gono Ferreros</option><option value='302'>Callezuela</option><option value='303'>La Zorera</option><option value='304'>Anieves</option><option value='305'>El Valle de Carre&ntilde;o</option><option value='306'>Perdones</option><option value='307'>El Escamplero</option><option value='308'>Barros</option><option value='309'>La Vega el Ciego</option><option value='310'>La Ra&iacute;z</option><option value='311'>Bra&ntilde;anoveles</option><option value='312'>San Juan de Pi&ntilde;era</option><option value='313'>Riveras de Previa</option><option value='314'>Feleches</option><option value='316'>Tahoces</option><option value='317'>Tu&ntilde;on</option><option value='318'>Pe&ntilde;erudes</option><option value='319'>San Juan de Nieva</option><option value='320'>Arances</option><option value='321'>Las Caldas</option><option value='322'>La Bra&ntilde;a</option><option value='323'>Insierto</option><option value='324'>Villa de Mar</option><option value='325'>Ceceda</option><option value='326'>Overo</option><option value='327'>Casta&ntilde;eda</option><option value='328'>Ranon</option><option value='329'>Lamu&ntilde;o</option><option value='330'>Conforcos</option><option value='331'>Cristaleria</option><option value='332'>Las Barzanas</option><option value='333'>La Frecha</option><option value='334'>Cangas de Onis</option><option value='335'>Doiras</option><option value='336'>Puebla de Lillo</option><option value='337'>Redipollos</option><option value='338'>San Cibrian</option><option value='339'>Soll&eacute;</option><option value='340'>Isoba</option><option value='341'>San Isidro</option><option value='342'>San Miguel de Quilo&ntilde;</option><option value='343'>San Cucao</option><option value='344'>Casta&ntilde;eu</option><option value='345'>Trejo</option><option value='346'>Constante</option><option value='347'>Lloreda</option><option value='348'>Latores</option><option value='349'>Pillarno</option><option value='350'>Nubledo</option><option value='351'>La Cruz de Illas</option><option value='352'>Bo&ntilde;ar</option><option value='353'>Viliella</option><option value='354'>Llama de Colle</option><option value='355'>La Atalaya</option><option value='356'>Bo&ntilde;ar</option><option value='357'>Llama de Colle</option><option value='358'>La Mu&ntilde;eca</option><option value='359'>Piniella</option><option value='360'>Piniella</option><option value='361'>Valdecastillo</option><option value='362'>Todos</option><option value='363'>Pola del Pino</option><option value='364'>La Culquera</option><option value='365'>Viodo</option><option value='366'>La Nava</option><option value='367'>Llanos</option><option value='368'>Lugones</option><option value='369'>Loro&ntilde;e</option><option value='370'>Santiago de Arenas</option><option value='371'>Santiago de Arenas</option><option value='372'>Laviana</option><option value='373'>Cardo</option><option value='374'>El Carmen</option><option value='375'>El Berron</option><option value='376'>Alto del Praviano</option><option value='377'>Granda</option><option value='378'>Ponteo</option><option value='379'>La Lloral</option><option value='380'>Las Mazas</option><option value='381'>Labayos</option><option value='382'>Santa Cruz Llanera</option><option value='383'>Meres</option><option value='384'>Viescas</option><option value='385'>Nore&ntilde;a</option><option value='386'>Nore&ntilde;a</option><option value='387'>Valsera</option><option value='388'>Manzaneda</option><option value='389'>Sograndio</option><option value='390'>Santiago Arenas</option><option value='391'>Ponteo</option><option value='392'>Ti&ntilde;ana</option><option value='393'>La Corrada</option><option value='394'>Villarente</option><option value='396'>Limanes</option><option value='397'>Colloto</option><option value='398'>Morcin</option><option value='399'>Santo Adriano</option><option value='400'>Cerredo</option><option value='401'>Villam&iacute;ana</option><option value='402'>Ponte</option><option value='403'>Somao</option><option value='404'>Vega de Pope</option><option value='405'>Armayor</option><option value='406'>La Llonga</option><option value='407'>Colloto</option><option value='408'>Villar</option><option value='409'>San Sebastian</option><option value='410'>Santullano</option><option value='411'></option><option value='413'>Villa</option><option value='414'>Todos</option><option value='415'>Vio&ntilde;o</option><option value='416'>Pervera</option><option value='417'>Hevia</option><option value='418'>Illas</option><option value='419'>Antromero</option><option value='420'>Caces</option><option value='421'>Ponga</option><option value='422'>Ponga</option><option value='423'>Abuli</option><option value='424'>Pelame</option><option value='425'>Villabona</option><option value='426'>Viella</option><option value='427'>Nava</option><option value='428'>Barzana</option><option value='429'>Villamarcel</option><option value='430'>Romadonga</option><option value='431'>Truyes</option><option value='432'>Tudela Agueria</option><option value='433'>Fresnedo</option><option value='434'>Valdredo</option><option value='435'>Valdesoto</option><option value='436'>San Roman</option><option value='437'>Candamin</option><option value='438'>Candamin</option><option value='439'>Anes</option>            </select>
+        </div>
+
+        <div class="post-col-2 tablet-post-col-3 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+            <input type="submit" value="Buscar">
+        </div>
+
+        <div class="post-col-2 post-bottom-20p phone-width-50p pphone-width-100p post-col-no-lpadding phone-lpadding">
+            <input type="button" value="+" class="btn-more">
+        </div>
+
+        <!--<div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="min-price" class="input-search" placeholder="− Precio M&iacute;nimo" value=""/>
+
+
+        </div>
+
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="max-price" class="input-search" placeholder="+ Precio M&aacute;ximo" value=""/>
+
+        </div>
+
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="min-habitaciones" class="input-search" placeholder="− Min Habitaciones" value=""/>
+        </div>
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="max-habitaciones" class="input-search" placeholder="+ Max Habitaciones" value=""/>
+        </div>
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="min-superficie" class="input-search" placeholder="− Min Superficie" value=""/>
+        </div>
+        <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="max-superficie" class="input-search" placeholder="+ Max Superficie"/>
+        </div>-->
+
+        
+        <!-- <input type="hidden" name="lang" value=""/> -->
+    </div>
+
+    <!-- Additional Features -->
+    <div class="sliding-features">
+        <div class="post-col-12">
+            
+            <h4>Búsqueda Avanzada</h4>
+            <div class="row clearfix">
+            <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="min-price" class="input-search" placeholder="− Precio M&iacute;nimo" value=""/>
+
+
+        </div>
+            <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="max-price" class="input-search" placeholder="+ Precio M&aacute;ximo" value=""/>
+
+            </div>
+
+            <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="min-habitaciones" class="input-search" placeholder="− Min Habitaciones" value=""/>
+            </div>
+            <div class="post-col-2 tablet-post-col-4 phone-width-50p pphone-width-100p post-bottom-20p pphone-post-bottom-10p">
+                        <input name="max-habitaciones" class="input-search" placeholder="+ Max Habitaciones" value=""/>
+            </div>
+        </div>
+            <div class="row clearfix">
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='ascensor' id='ascensor'>
+                    <label for="">Ascensor</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='amueblado' id='amueblado'>
+                    <label for="">Amueblado</label>
+                </div>
+
+                 <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='calefaccion' id='calefaccion'>
+                    <label for="">&aacute;tico</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='independiente' id='independiente'>
+                    <label for="">Independiente</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='edificable' id='edificable'>
+                    <label for="">Edificable</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='instalado' id='instalado'>
+                    <label for="">Instalado</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='calefaccion' id='calefaccion'>
+                    <label for="">Calefacci&oacute;n</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='garaje' id='garaje'>
+                    <label for="">Garaje</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='terraza' id='terraza'>
+                    <label for="">Terraza</label>
+                </div>
+
+                <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='terreno' id='terreno'>
+                    <label for="">Terreno</label>
+                </div>
+
+                
+
+                 <div class='post-col-2 ptablet-post-col-3 phone-width-50p'>
+                    <input type='checkbox' name='amenities[]' value='agua' id='agua'>
+                    <label for="">Agua</label>
+                </div>
+              
+                
+
+                
+
+                
+
+               
+
+                
+            </div>
+
+        </div>
+    </div>
+
+
+</form>            </div>
+
+
+
+        </div></section>
+
+
+    <section class="theme-pages">
+        <div class="inside clearfix">
+
+            <!-- left container -->
+
+            <div class="post-col-9 ptablet-post-col-8 phone-width-100p left-container ">
+
+                <div class="agent-properties">
+                                <div class="search-count">
+                10 Propiedades encontradas de 102 - P&aacute;gina 1                </div>
+
+                
+                    <div class="row grid  cs-style-3">
+
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11762">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002118/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11762"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            104.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona OÑON</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002118 <span style="color: #88c354"> Ref.MI00002118</span></label>
+                                        MIERES; Estupendo piso de tres dormitorios, salón-comedor, cocina y dos baños, terraza y cochera cerrada opcional. Calefacción y ascensor.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>75.61</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                                                                    <span><i class="fas fa-car"></i>1</span>
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11762" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11828">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002087/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11828"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            38.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002087 <span style="color: #88c354"> Ref.MI00002087</span></label>
+                                        Quinta planta con ascensor en el centro. Tiene unos 65 metros, distribuido en tres dormitorios, salón, cocina y baño con bañera. Se enceuntra para ...                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>65.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11828" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11983">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002165/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11983"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            87.920&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002165 <span style="color: #88c354"> Ref.MI00002165</span></label>
+                                        PISO MIERES: Se vende piso de 124m2 para reformar a tu gusto. Visítelo!!! Financiación 100%, cheque regalo para la reforma de 5,000 €.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>123.96</span>
+
+                                        <span><i class="fas fa-bed"></i>5</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=11983" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13080">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002357/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13080"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            35.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona SAN PEDRO</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002357 <span style="color: #88c354"> Ref.MI00002357</span></label>
+                                        PISO MIERES;Cocina, salón-comedor, tres dormitorios, baño, completamente exterior, calefacción, muy luminoso.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>70.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13080" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13535">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002428/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13535"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            45.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002428 <span style="color: #88c354"> Ref.MI00002428</span></label>
+                                        PISO MIERES: Tres dormitorios, salón-comedor, cocina y baño. Financiación 100 %.                                     </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>90.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=13535" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=14189">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002514/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=14189"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            138.140&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona SAN PEDRO</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002514 <span style="color: #88c354"> Ref.MI00002514</span></label>
+                                        PISO EN MIERES: Obra nueva Tres dormitorios, salón-comedor, cocina, baño y aseo. Calefacción, ascensor y trastero.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>69.59</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                                                                    <span><i class="fas fa-car"></i>1</span>
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=14189" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16042">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002754/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16042"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            78.500&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002754 <span style="color: #88c354"> Ref.MI00002754</span></label>
+                                        PISO MIERES: piso centrico de tres dormitorios, salón comedor, cocina, baño, aseo y despensa. Calefacción y ascensor.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>80.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16042" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16568">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00002999/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16568"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            23.500&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00002999 <span style="color: #88c354"> Ref.MI00002999</span></label>
+                                        PISO EN MIERES: Tres dormitorios, salita, cocina y baño. Necesita reformas. Terraza comunitaria. Soleado.                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>71.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16568" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16598">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00003007/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16598"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            71.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona SANTA MARINA</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00003007 <span style="color: #88c354"> Ref.MI00003007</span></label>
+                                        PISO EN SANTA MARINA: Tres dormitorios, salón, cocina y baño. Calefacción. Cocina reformada. Muy luminoso                                    </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>52.16</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16598" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                            <div id="post-563" class="post-bottom-3em clearfix">
+                            <div class="post-col-5 ptablet-width-100p post-bottom">
+                                <div class="property-mask property-image">
+
+                                    <!--  <div class="featured-ribbon">
+                                        <i class="fas fa-star" title="Destacado"></i>
+                                    </div>-->
+
+
+
+                                    <figure class="pimage">
+                                        <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16894">
+
+                                                                                            <img src="https://www.casalficheros.com/fotosweb_mieres/MI00003071/01.jpg" height="400" width="600">
+                                            
+                                        </a>
+                                            <figcaption>
+                                            <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16894"><i class="fas fa-link fa-lg"></i></a>
+                                            </figcaption>
+
+
+
+                                        <!--                                    <h4 class="property-sold">--><!--</h4>-->
+
+
+                                        <h4>
+
+                                            <!--                                        <span class="property-open-house">-->
+                                            <!--											-->                                            <!--										</span>-->
+
+
+                                            <span class="">Piso en Venta</span>
+                                            
+                                        </h4>
+
+
+
+
+                                        <div class="property-price">
+
+                                        </div>
+
+                                        <div class="property-price">
+                                            190.000&#8364;                                        </div>
+                                    </figure>
+
+                                </div>
+                            </div>
+
+                            <div class="post-col-7 ptablet-width-100p">
+                                <div class="agent-property-desc">
+                                    <div class="property-desc">
+                                        <h3>Mieres, zona CENTRO MIERES</h3>
+                                        <label><span style="color:#a82777;font-weight: bold">  MIERES</span> 33600 MIERES Asturias ref.MI00003071 <span style="color: #88c354"> Ref.MI00003071</span></label>
+                                        DÚPLEX OBRA NUEVA: Tres dormitorios, salón - comedor, cocina, baño y aseo. Excelentes calidades,                                     </div>
+                                    <div class="property-info-agent post-bottom">
+
+
+
+
+                                        <span><i class="fas fa-expand"></i>86.00</span>
+
+                                        <span><i class="fas fa-bed"></i>3</span>
+
+                                        <span><i class="fas fa-bath"></i>1</span>
+
+                                        
+
+
+                                    </div>
+
+
+                                    <a href="https://www.inmocasal.es/detalle-casa/?propiedad=16894" class="view-profile read-more-property">
+                                        Ver inmueble                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    
+                    <div class="pagination">
+
+                        
+                                                    <span  href="#" class="btn btn-default" style="font-size: larger" title="Next page"><i class="fa fa-angle-left"></i> Anterior</span>
+                                                <span>P&aacute;gina 1 de 11</span>
+                                                    <a  href="https://www.inmocasal.es/busqueda-avanzada/?&accion=search&gesid=5&catid=6&id_poblacion=27&pagina=2" class="btn btn-default" style="font-size: larger" title="Next page">Siguiente <i class="fa fa-angle-right"></i></a>
+                                            </div>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            </div></div>
+
+            <!-- sidebar -->
+            <div class="post-col-3 ptablet-post-col-4 phone-width-100p">
+                <div class="sidebar"><h5 style="text-transform: uppercase!important;font-size: 18px!important;font-weight: 700;">Buscar inmueble por referencia</h5>
+<form class="nsu-form" id="nsu-form-0" action="https://www.inmocasal.es/wp-admin/admin-post.php" method="post" style="margin-bottom: 50px;">
+                        
+                         <input type="hidden" name="action" value="search">
+                         <p>
+
+                         <input class="nsu-field" id="nsu-email-0" type="text" name="referencia" placeholder="Referencia" required="">
+                         </p>
+                         
+                         
+                         <p>
+                         <input type="submit" id="nsu-submit-0" class="nsu-submit" name="nsu_submit" value="Buscar">
+                         </p>
+                    
+</form>
+<div id="custom_html-4" class="widget_text widget widget_custom_html post-bottom"><h5>Teléfono Información al Cliente</h5><div class="textwidget custom-html-widget"><a href="tel:+34 984 28 00 88" style="font-size:18px; color:#333">984 28 00 88</a></div></div><div id="custom_html-3" class="widget_text widget widget_custom_html post-bottom"><h5>Dinos qué necesitas</h5><div class="textwidget custom-html-widget"><!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "6027374",
+	formId: "472f8924-7e45-446c-9cb4-29ee45b0043b"
+});
+</script></div></div><div id="custom_html-5" class="widget_text widget widget_custom_html post-bottom"><div class="textwidget custom-html-widget"><a href="/certificado-energetico/"><img style="width:100%; max-width:100%" src="https://www.inmocasal.es/wp-content/uploads/2019/10/energia-casal-2.jpg"></a>
+
+</div></div>
+</div>
+            </div>
+        </div>
+    </section>
+
+
+	<footer id="footer-id-seven">	
+				<section class="footer-widgets post-bottom-3em">
+			<div class="inside clearfix">
+				<div class='post-col-3 widget-column'><div id="custom_html-1" class="widget_text widget widget_custom_html post-bottom"><div class="textwidget custom-html-widget"><p><img class="footer-logo" src="https://www.inmocasal.es/wp-content/uploads/2019/08/logo-casal-.png" alt=""></p>
+Casal Inmobiliaria cuenta con la mayor red de agencias inmobiliarias de Asturias, siendo todas propias por lo que la filosofía de empresa se mantiene invariable en cada una de ellas.</div></div></div><div class='post-col-3 widget-column'><div id="contact-1" class="widget homeland_widget-contact-info post-bottom"><h5>Contáctenos</h5>				<ul>
+											<li><i class="fas fa-map-marker-alt"></i>
+							<label>Encuentra tu oficina.</label>
+						</li>
+					
+											<li><i class="fas fa-phone"></i>
+							<label>984 28 00 88</label>
+						</li>
+					
+											<li><i class="far fa-envelope"></i>
+							<label>
+								<a href="mailto:oficinacentral@inmocasal.com">oficinacentral@inmocasal.com</a>
+							</label>
+						</li>
+					
+											<li><i class="fas fa-laptop"></i>
+							<label>
+								<a href="https://inmocasal.es" target="_blank">https://inmocasal.es</a>
+							</label>
+						</li>
+									</ul></div></div><div class='post-col-3 widget-column'><div id="custom_html-2" class="widget_text widget widget_custom_html post-bottom"><div class="textwidget custom-html-widget"><div id="meta-3" class="widget widget_meta post-bottom"><h5>Enlaces Importantes</h5>			<ul>		
+			<li><a href="/propiedades/">Listado Propiedades Casal</a></li>
+			<li><a rel="nofollow" href="/aviso-legal/">Aviso Legal</a></li>			<li><a rel="nofollow" href="/politica-de-privacidad">Política de privacidad</a></li>
+			<li><a href="/politica-de-cookies">Política de Cookies</a></li>
+			
+						</ul>
+			</div></div></div></div><div class='post-col-3 widget-column'><div id="custom_html-6" class="widget_text widget widget_custom_html post-bottom"><div class="textwidget custom-html-widget"><div id="newslettersignupwidget-1" class="widget nsu_widget post-bottom"><h5>Nuestro Blog</h5><div class="nsu-text-before-form">Suscríbete para estar al tanto de las noticias más importante del sector inmobiliario en Asturias</div>
+<!-- Form  -->
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "6027374",
+	formId: "29595d69-b767-4fec-9491-2d9ef91bd814"
+});
+</script>
+<!-- / Newsletter Sign-Up -->
+</div></div></div></div>			</div>
+		</section><section style="text-align: center;">
+	<div class="inside clearfix">
+		<div class="post-col-12">
+			<div class=" clearfix">
+			<ul class="logo-legal-foo" style="margin-bottom: 15px;">
+				<li><img src="/wp-content/themes/homeland/assets/img/api-logo.png"></li>
+				<li><img src="/wp-content/themes/homeland/assets/img/crs-logo.png"></li>
+				<li><img src="/wp-content/themes/homeland/assets/img/realtor-logo.png"></li>
+                <li><img src="/wp-content/themes/homeland/assets/img/logo-asocias.png"></li>
+				<li><img src="/wp-content/themes/homeland/assets/img/colegio-logo.png"></li>
+				<li style="display: inline-grid"><img src="/wp-content/themes/homeland/assets/img/registro.png"><p class="foo-legal-text" >Nº de registro 095/2015 sección 1ª</p></li>
+				
+				
+				
+            </ul>
+
+			</div>
+		</div>
+		<!--<div class="post-col-12">
+		    <p style="color:#FFF;margin-top: 15px;">Nº de registro 095/2015 sección 1ª</p>
+	    </div>-->
+	</div>
+</section>
+
+<section class="footer-main footer-layout-seven">
+	<div class="inside clearfix">
+		<div class="post-col-12">
+			<div class="footer-inside clearfix">
+				<label class="copyright">
+					 					<a href="https://www.inmocasal.es/">CASAL Inmobiliaria</a>
+					&copy; 2020 - Todos los derechos reservados				</label>
+								<a href="#" id="toTop"><i class="fas fa-angle-up"></i></a>
+			</div>	
+		</div>
+	</div>
+</section>		
+	</footer>
+</div>
+
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/plugins/codeex-shortcodes/typo-custom.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/custom.min.js?ver=5.2.7'></script>
+<script type='text/javascript'>
+(function($) {
+				'use strict'; 
+				$(window).scroll(function() {
+		      if ($(this).scrollTop() > 2){  
+		        $('header').addClass('sticky-header-animate');
+		      }else{
+		        $('header').removeClass('sticky-header-animate');
+		      }
+		    });
+			})(jQuery);
+</script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/superfish.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/retina.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/modernizr.custom.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/jquery.validate.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/flexslider/jquery.flexslider-min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/magnific-popup/jquery.magnific-popup.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-content/themes/homeland/assets/js/select2/select2.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.inmocasal.es/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8224930-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8224930-1');
+</script>
+
+<!--<script type="text/javascript" charset="utf-8">
+ $(window).load(function() {
+   $('#carousel-flex').flexslider({ 
+      animation: "slide", 
+      controlNav: false, 
+      animationLoop: false, 
+      slideshow: false, 
+      itemWidth: 110, 
+      itemMargin: 10, 
+      slideshow: false,                //Boolean: Animate slider automatically
+      slideshowSpeed: 100000,
+      asNavFor: '.properties-flexslider', 
+      prevText: "", 
+      nextText: "" 
+    });
+    $('.properties-flexslider').flexslider({ 
+      animation: "slide",
+      prevText: "", 
+      nextText: "", 
+      controlNav: false, 
+      smoothHeight: true, 
+      sync: "#carousel-flex", 
+      slideshow: false,
+      touch: true,
+      animationSpeed: 700,
+      start: function(slider){
+        slider.removeClass('flex-loading');
+      }
+    });
+});
+</script>-->
+
+
+
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6027374.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.inmocasal.es @ 2020-06-25 23:23:45 by W3 Total Cache
+-->
