@@ -31,16 +31,19 @@ export class casalClass {
         var ls_url: string = "https://www.inmocasal.es/busqueda-avanzada/?accion=search&gesid=5&catid=6&id_poblacion=27&pagina=";
         var ls_url_final: string = ls_url + pag;
 
-        try {
-            var ls_response = await Axios({
-                method: "get",
-                url: ls_url_final,
-                responseType: "text"
-            });
-        } catch (error) { return "" };
+        // try {
+        //     var ls_response = await Axios({
+        //         method: "get",
+        //         url: ls_url_final,
+        //         responseType: "text"
+        //     });
+        // } catch (error) { return "" };
 
-        return ls_response.data;
-
+        // return ls_response.data;
+        if ( pag != 12 ) {
+       var response = await fs.promises.readFile('./src/casal1.txt')
+        return response.toString();
+        } else { return "" };
     };
 
 
@@ -53,12 +56,6 @@ export class casalClass {
     parsePagina(pagina: string): ts_ScrappedData[] {
 
         var lt_scrappedData: ts_ScrappedData[] = [];
-
-        // var $: CheerioStatic = await fs.promises.readFile('./src/casal1.txt')
-        //     .then(
-        //         response => {
-        //             return cheerio.load(response.toString())
-        //         });
 
         var $: CheerioStatic = cheerio.load(pagina.toString());
 
