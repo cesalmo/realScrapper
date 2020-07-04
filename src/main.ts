@@ -1,14 +1,17 @@
 
-import { casalClass } from './lib/casal'
+import { casalClass } from './lib/casal';
+import { ddbbClass  } from './lib/gestorDDBB'
 
-class principal {
+
+class principalClass {
 
     run(){
 
         var casal: casalClass = new casalClass();
+        var ddbb: ddbbClass = new ddbbClass();
         
         casal.main()
-            .then()
+            .then( r => ddbb.casalInsert(r) )
             .catch()
             ;
         
@@ -16,5 +19,5 @@ class principal {
 
 };
 
-var princ: principal = new principal();
+var princ: principalClass = new principalClass();
 princ.run();

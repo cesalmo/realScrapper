@@ -10,10 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "@sap/cds": "^3",
+    "express": "^4"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.18",
-    "@types/node": "^14.0.14"
+    "@types/node": "^14.0.14",
+    "sqlite3": "^5.0.0"
   }
 }
