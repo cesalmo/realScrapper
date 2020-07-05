@@ -5,9 +5,9 @@ entity realS {
     key Ref: String;
     key millsecsUTC : Integer;
     link: String;
-    precio: Number;
-    m2: Number;
-    hab: Number;
-    banios: Number;
+    precio: Integer;
+    m2: Integer;
+    hab: Integer;
+    banios: Integer;
 };
 

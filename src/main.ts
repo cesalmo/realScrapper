@@ -10,9 +10,10 @@ class principalClass {
         var casal: casalClass = new casalClass();
         var ddbb: ddbbClass = new ddbbClass();
         
-        casal.main()
+        casal
+            .main()
             .then( r => ddbb.casalInsert(r) )
-            .catch()
+            .catch( s => console.log(s) )
             ;
         
     };

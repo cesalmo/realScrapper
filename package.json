@@ -4,7 +4,8 @@
   "description": "",
   "main": "./out/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cds:dep_sql": "cds deploy ./db/data-model.cds --to sqlite"
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +19,13 @@
     "@types/cheerio": "^0.22.18",
     "@types/node": "^14.0.14",
     "sqlite3": "^5.0.0"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "model": "./db/data-model.cds"
+      }
+    }
   }
 }

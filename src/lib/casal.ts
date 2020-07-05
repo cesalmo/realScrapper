@@ -58,7 +58,7 @@ export class casalClass {
         var lt_scrappedData: ts_ScrappedData[] = [];
 
         var $: CheerioStatic = cheerio.load(pagina.toString());
-
+        var oDate = new Date();
         $('[id^=post]').each((i: number, t: CheerioElement): void => {
             var link = cheerio('figure > a', t).slice(0, 1).attr('href') as string; // -> "https://www.inmocasal.es/detalle-casa/?propiedad=11762"
             var precioCompleto = cheerio('figure  .property-price', t).slice(1, 2).text(); // -> 38.000€
@@ -72,11 +72,14 @@ export class casalClass {
             var numHab = Number(numHabString);
             var numBañoString = cheerio('.property-info-agent span', t).slice(2, 3).text();
             var numBaño = Number(numBañoString);
+            var nMillsecsUTC = Date.now();
+            // var nMillsecsUTC = oDate.getMilliseconds;
             var ls_scrappedData: ts_ScrappedData = {
                 proveedor: ePro.casal,
+                Ref: ref,
+                millsecsUTC: nMillsecsUTC,
                 link: link,
                 precio: precio,
-                Ref: ref,
                 m2: m2,
                 hab: numHab,
                 banios: numBaño
